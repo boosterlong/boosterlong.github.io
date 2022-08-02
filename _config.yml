@@ -13,7 +13,7 @@
 title: Safety Documents
 
 # Your name to show in the footer
-author: Marlene
+author: © Blake Chartrand
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,7 +21,6 @@ author: Marlene
 
 navbar-links:
   Available Documents: "aboutme"
-  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -287,3 +286,4 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
+paginate_path: "/documents/page:num/"
